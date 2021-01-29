@@ -1,18 +1,6 @@
-Hello, My Friends  
-Thank you for having interest in this repository ! 
+현재 유튜브 클론 코딩 강의를 보며 만들고 있던 중입니다.
 
-To use this application, 
+회원가입, 로그인, 비디오 업로드, 비디오 시청까지 대강 구현했습니다.
 
-1. make dev.js file inside config folder 
-2. put mongoDB info into dev.js file 
-3. Type  " npm install " inside the root directory  ( Download Server Dependencies ) 
-4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
-
-
-If you have problem, feel free to ask me ^^ 
-
-You can watch the tutorial for this app.
-
-https://www.youtube.com/channel/UCFyXA9x8lpL3EYWeYhj4C4Q?view_as=subscriber
-
+mongoDB URI와 환경변수는 .gitignore로 숨겼고, 비디오와 섬네일이 저장되는 uploads/thumbnails 폴더도 push하지 않았습니다.
 
